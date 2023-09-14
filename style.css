@@ -1,0 +1,14 @@
+body{ 
+    height: 100vh;
+    background: skyblue;
+}
+.container{
+    width: 350px;height: 400px;background-color: darkorchid;text-align: center;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif; 
+    padding: 30px;margin: auto;box-shadow: 12px 13px 15px;border-radius: 45px;cursor: zoom-in;
+    
+}
+p{
+    font-size: 23px;
+    color: chartreuse;
+}
